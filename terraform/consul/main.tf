@@ -21,7 +21,7 @@ resource "consul_keys" "input" {
 # Setup a new AWS instance using a dynamic ami and
 # instance type
 resource "aws_instance" "test" {
-  ami           = "${lookup(var.aws_amis, var.aws_region)}"
+  ami           = "${lookup(var.aws_ami, var.aws_region)}"
   instance_type = "${consul_keys.input.var.size}"
 }
 
