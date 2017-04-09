@@ -4,7 +4,7 @@ variable "aws_region" {
 }
 
 # Ubuntu AMI's - http://cloud-images.ubuntu.com/locator/ec2/
-variable "aws_amis" {
+variable "aws_ami" {
   default = {
     eu-west-1 = "ami-b1cf19c6"
     us-east-1 = "ami-de7ab6b6"
