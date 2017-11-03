@@ -9,3 +9,4 @@
 - https://www.rcrwireless.com/20170818/top-five-best-container-clustering-and-orchestration-tools-tag27-tag99?utm_content=buffer2fa73&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 - https://www.slideshare.net/brikis98/reusable-composable-battletested-terraform-modules
 - https://danielparker.me/nomad/hashicorp/schedulers/nomad/
+- https://play-with-nomad.com
