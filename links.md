@@ -10,3 +10,4 @@
 - https://www.slideshare.net/brikis98/reusable-composable-battletested-terraform-modules
 - https://danielparker.me/nomad/hashicorp/schedulers/nomad/
 - https://play-with-nomad.com
+- https://medium.com/google-cloud/five-things-learned-using-terraform-to-manage-cloud-infrastructure-5ad0d4aa0648
