@@ -11,3 +11,4 @@
 - https://danielparker.me/nomad/hashicorp/schedulers/nomad/
 - https://play-with-nomad.com
 - https://medium.com/google-cloud/five-things-learned-using-terraform-to-manage-cloud-infrastructure-5ad0d4aa0648
+- https://www.theregister.co.uk/2017/12/06/what_is_terraform/
