@@ -13,3 +13,4 @@
 - https://medium.com/google-cloud/five-things-learned-using-terraform-to-manage-cloud-infrastructure-5ad0d4aa0648
 - https://www.theregister.co.uk/2017/12/06/what_is_terraform/
 - https://www.hashicorp.com/blog/load-balancing-strategies-for-consul
+- https://www.hashicorp.com/blog/smart-networking-with-consul-and-service-meshes
