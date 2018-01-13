@@ -14,3 +14,4 @@
 - https://www.theregister.co.uk/2017/12/06/what_is_terraform/
 - https://www.hashicorp.com/blog/load-balancing-strategies-for-consul
 - https://www.hashicorp.com/blog/smart-networking-with-consul-and-service-meshes
+- https://www.hashicorp.com/blog/functions-as-a-service-with-nomad
