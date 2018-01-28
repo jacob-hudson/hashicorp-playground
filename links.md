@@ -15,3 +15,4 @@
 - https://www.hashicorp.com/blog/load-balancing-strategies-for-consul
 - https://www.hashicorp.com/blog/smart-networking-with-consul-and-service-meshes
 - https://www.hashicorp.com/blog/functions-as-a-service-with-nomad
+- https://circleci.com/blog/how-to-build-immutable-infrastructure-with-packer-and-circleci-workflows/
